@@ -36,4 +36,3 @@ jobs:
         app-name: YOUR_APP_NAME
         publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISH_PROFILE }}
         package: .
-``
